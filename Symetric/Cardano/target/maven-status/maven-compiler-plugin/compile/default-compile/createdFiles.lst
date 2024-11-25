@@ -1,0 +1,8 @@
+com\tad\cardano\model\Solver.class
+com\tad\cardano\model\enums\ERotateAngle.class
+com\tad\cardano\model\Input.class
+com\tad\cardano\model\enums\EReadStatus.class
+com\tad\cardano\model\Output.class
+com\tad\cardano\model\Grid.class
+com\tad\cardano\Cardano.class
+com\tad\cardano\model\Grid$1.class
